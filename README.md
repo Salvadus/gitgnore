@@ -1,0 +1,2 @@
+# gitgnore
+novo repositório
